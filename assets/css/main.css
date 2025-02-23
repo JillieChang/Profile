@@ -3197,7 +3197,7 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
-		@media screen and (max-width: 536px) {
+		@media screen and (max-width: 736px) {
 
 			ul.feature-icons {
 				margin: 0 0 3rem 0;
